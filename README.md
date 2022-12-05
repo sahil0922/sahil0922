@@ -1,7 +1,9 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)]
 <h1 align="center">Hi 👋, I'm Sahil Patil</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://embed-ssl.wistia.com/deliveries/a056afbed3974a1c593a95005624d0f88ababe5d.jpg">
+
+<div><img align="center" alt="Coding" width="400" src="https://embed-ssl.wistia.com/deliveries/a056afbed3974a1c593a95005624d0f88ababe5d.jpg"></div>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil0922" alt="sahil0922" /></a> </p>
 
